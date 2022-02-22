@@ -1,22 +1,10 @@
 
 O curso de Introdução ao Git/GitHub fora conduzido pelo instrutor Otavio Reis @Perkles, que me possibilitou ter domínio do versionamento Git de meus futuros projetos para disponibilizar em portifólios no GitHub.
-
-
-
 Como estava sem notebook, instalei um ambiente Linux num aparelho Android através de um terminal Termux. O flavor do ambiente é Ubuntu XFCE versão 4.14 Modded OS.
 
-
-
 Abri um diretório Workspace no Desktop do ambiente e dei início aos repositórios propostos.
-
-
-
 Fiz uso de uma interface gráfica com auxílio do VNC, para visualização no VSCode do resultado gráfico do uso do Markdown.
 
-
-
 Tive alguns problemas com os commits, que também foram solucionados pelo instrutor com uma aula que já previa esses problemas de versionamento.
-
-
 
 As aulas foram incríveis e com a diversão característica da equipe DIO. 
